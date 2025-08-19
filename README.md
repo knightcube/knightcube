@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Rajat Kumar Gupta</h1>
-<h3 align="left">Full Stack Developer with 2+ years of hands-on experience with React, Node.js, Express.js, MySQL, JavaScript, and Java.</h3>
+<h3 align="left">I am now a 3D Creator but earlier I was a full Stack Developer with 2+ years of hands-on experience with React, Node.js, Express.js, MySQL, JavaScript, and Java.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knightcube&label=Profile%20views&color=0e75b6&style=flat" alt="knightcube" /> </p>
 
